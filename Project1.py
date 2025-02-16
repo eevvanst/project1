@@ -1,0 +1,1 @@
+print ("Studihrad Ivan, AI-2025")
